@@ -13,7 +13,7 @@
   "license": "MIT",
   "require": {
     "php": "^8.0",
-    "illuminate/support": "^9.0.0|^10.0.0",
+    "illuminate/support": "^8.0.0|^9.0.0|^10.0.0",
     "flynsarmy/csv-seeder": "^2.0"
   },
   "require-dev": {
@@ -28,6 +28,11 @@
       "name": "Auriga Aristo",
       "email": "aurigaaristo@gmail.com",
       "homepage": "https://aurigaaristo.com"
+    },
+    {
+      "role": "Developer",
+      "name": "Hilmy Syarif",
+      "email": "hilmysyarif13@gmail.com"
     }
   ],
   "autoload": {
